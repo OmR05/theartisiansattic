@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/theartisiansattic/static/css/main.6f49d1e5.css",
+    "main.js": "/theartisiansattic/static/js/main.e4e03728.js",
+    "static/js/787.0b3c020f.chunk.js": "/theartisiansattic/static/js/787.0b3c020f.chunk.js",
+    "index.html": "/theartisiansattic/index.html",
+    "main.6f49d1e5.css.map": "/theartisiansattic/static/css/main.6f49d1e5.css.map",
+    "main.e4e03728.js.map": "/theartisiansattic/static/js/main.e4e03728.js.map",
+    "787.0b3c020f.chunk.js.map": "/theartisiansattic/static/js/787.0b3c020f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f49d1e5.css",
+    "static/js/main.e4e03728.js"
+  ]
+}
